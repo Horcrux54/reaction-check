@@ -1,0 +1,9 @@
+#figure {
+  display: none;
+  height: 70px;
+  width: 100px;
+  background-color: green;
+}
+#mean {
+  display: none;
+}
